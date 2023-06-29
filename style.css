@@ -89,7 +89,7 @@ button:hover{
     }
     .password{
         max-width: 211px;
-        padding: 1em 1.25em;
-        line-height: 1.2;
+        padding: 1.5em 1.25em;
+        line-height: 0;
     }
 }
