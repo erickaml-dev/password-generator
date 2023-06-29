@@ -43,7 +43,7 @@ button{
     -moz-border-radius: 6px;
     -ms-border-radius: 6px;
     -o-border-radius: 6px;
-    padding: .5em 1.25em ;
+    padding: .8em 1.25em ;
     margin-bottom: 2em;
     cursor: pointer;
     transition: background-color .5s;
