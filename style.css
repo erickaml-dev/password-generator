@@ -66,13 +66,14 @@ button:hover{
 .password{
     width: 100%;
     border: none;
-    padding: 1em 0;
+    padding: 1.5em 0;
     text-align: center;
     background-color: #273549;
     color: #4ADF86;
     border-radius: 6px;
-    font-size: 1.25rem;
-    margin-bottom: .5em;
+    font-size: 1.2rem;
+    margin-bottom: .7em;
+    line-height: 0;
 }
 
 @media (min-width: 890px){
@@ -89,5 +90,6 @@ button:hover{
     .password{
         max-width: 211px;
         padding: 1em 1.25em;
+        line-height: 1.2;
     }
 }
